@@ -13,6 +13,7 @@ module.exports = {
   rules: {
     'class-methods-use-this': 'off',
     'consistent-return': 'off',
-    "import/no-extraneous-dependencies"
+    'import/no-extraneous-dependencies': 'off',
+    camelcase: 'off',
   },
 };
